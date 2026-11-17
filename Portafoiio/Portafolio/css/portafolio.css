@@ -1,0 +1,92 @@
+:root {
+    --color-bg-main: #051636;
+  --color-bg-secondary: #082454;
+  --color-primary: #5AB2EC;
+  --color-accent-main: #F47C54;
+  --color-accent-secondary: #6A62A8;
+  --color-text-light: #99D6F7;
+
+    --heading: "Titillium Web", sans-serif;
+    --body: "Inter", sans-serif;
+
+    --shadow: 0 24px 70px rgba(74, 44, 29, 0.12);
+    --radius: 24px;
+    --transition: 300ms cubic-bezier(.16, 1, .3, 1);
+}
+
+.nav{
+  background-color: #6A62A8 !important;
+ 
+}
+
+.navbar-brand{
+ color: #99D6F7 !important;
+}
+
+.container-fluid{
+  background-color: #082454;
+  color: #99D6F7;
+}
+
+.piezaA {
+  width: 10%;
+  height: 10%;
+  transform: rotate(0deg);
+  filter: hue-rotate(90deg) saturate(150%);
+     margin-left: auto;
+   margin-top: auto;
+   margin-right: auto;
+   margin-bottom: auto;
+   
+
+}
+.piezaB {
+  width: 10%;
+  height: 10%;
+  transform: rotate(90deg);
+  filter: hue-rotate(90deg) saturate(150%);
+   margin-left: auto;
+   margin-top: auto;
+   margin-right: auto;
+   margin-bottom: auto;
+
+}
+.piezaC{
+  width: 10%;
+  height: 10%;
+  transform: rotate(180deg);
+  filter: hue-rotate(90deg) saturate(150%);
+     margin-left: auto;
+   margin-top: auto;
+   margin-right: auto;
+   margin-bottom: auto;
+
+}
+
+.piezaD{
+  width: 10%;
+  height: 10%;
+  transform: rotate(-90deg);
+  filter: hue-rotate(90deg) saturate(150%);
+  padding: 0px;
+  margin: 0%;
+     margin-left: auto;
+   margin-top: auto;
+   margin-right: auto;
+   margin-bottom: auto;
+
+}
+
+.contenedor-pieza {
+  position: relative;
+  display: inline-block; /* Ajusta el contenedor al tamaño exacto de la imagen */
+}
+
+.texto-encima {
+  position: absolute !important;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%); /* Centra el texto de forma exacta */
+  margin: 0;
+  text-align: center;
+}
