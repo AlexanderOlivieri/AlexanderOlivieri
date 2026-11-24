@@ -17,15 +17,8 @@
 [<img src="./assets/social/linkedin.png"/>][linkedin]
 
 
-### Hablemos de...
-
-
 ### Estoy aprendiendo...
 <img src="./assets/tech/python.png"/>
-
-
-
-
 
 
 [website]: https://alexanderolivieri.github.io/
