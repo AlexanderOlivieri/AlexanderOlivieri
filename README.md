@@ -4,6 +4,7 @@
 :pencil: **Fortaleciendo mi desarrollo backend**  
 :eyeglasses: **Me gustan los vídeojuegos**
 
+### Tecnologías
 
 ### Vías de contacto
 
