@@ -11,4 +11,5 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/AlexanderOlivieri?label=%E2%AD%90GitHub%20stars&style=flat-square)
 </div>
 
+![mi perfil](https://github.com/AlexanderOlivieri/AlexanderOlivieri/blob/main/linkeding-portada.jpg)
 
