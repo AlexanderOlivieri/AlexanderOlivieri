@@ -1,28 +1,5 @@
-# Hola, soy Alexander Olivieri
+# 👋 Hola, soy <a href="https://alexanderolivieri.github.io/">Alexander Olivieri</a> <img align='right' src="/assets/gif/Dog Man GIF by Pluralsight.gif" height="" width="300" alt="Hombre trabajando">
 
-:computer: **Desarrollador Java Full Stack Jr | Ingeniero en Computación**  
-:pencil: **Fortaleciendo mi desarrollo backend**  
-:eyeglasses: **Me gustan los vídeojuegos**
+</div>
 
-### Tecnologías
-
-### Vías de contacto
-
-[![Website]()][website]
-[![linkedin]()][linkedin]
-
-
-
-### Mis redes sociales
-
-[<img src="./assets/social/linkedin.png"/>][linkedin]
-
-
-### Estoy aprendiendo...
-<img src="./assets/tech/python.png"/>
-
-
-[website]: https://alexanderolivieri.github.io/
-[youtube]: https://www.youtube.com/@alexanderolivieri9939
-[linkedin]: https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3Bj6nl3T8eQoS3ziYDCU%2BA8A%3D%3D
 
