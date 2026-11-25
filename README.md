@@ -1,5 +1,5 @@
 <div>
-# 👋 Hola, soy <a href="https://alexanderolivieri.github.io/">Alexander Olivieri</a> <!-- <img align='right' src="" height="" width="300" alt="o"> -->
+👋 Hola, soy <a href="https://alexanderolivieri.github.io/">Alexander Olivieri</a> <!-- <img align='right' src="" height="" width="300" alt="o"> -->
 
 </div>
 
