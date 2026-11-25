@@ -52,7 +52,7 @@
  ## Tecnologías Back-End:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,git,github,idea" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,git,github,idea,bash" />
   </a>
 </p>
 
