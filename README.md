@@ -3,7 +3,8 @@
 </div>
 
 <div>
-   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78E0C&width=435&lines=Bienvenido+a+mi+GitHub)](https://git.io/typing-svg)
+https://readme-typing-svg.demolab.com/demo/?color=F78E0C&lines=Bienvenido+a+mi+GitHub
+
   ![](https://img.shields.io/github/followers/AlexanderOlivieri?label=follow&logo=github&style=flat-square)
 </div>
 
