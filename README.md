@@ -23,3 +23,7 @@
 
 </div>
 
+<p style="text-align: center; font-size: 1rem;" align='center'>👦🏻 Alexander | Java Full Stack Developer | Frontend Developer | Computer Engineer | México</p>
+
+
+<br />
