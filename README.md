@@ -39,3 +39,22 @@
 - ✍️ &nbsp; Titulado y egresado de ICO en la UNAM.
 
 <hr>
+
+
+ ## Tecnologías Front-End:
+ 
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,typescript,html,css,figma" />
+  </a>
+</p>
+
+ ## Tecnologías Back-End:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,git" />
+  </a>
+</p>
+
+ <br/>
+    <a href="https://github.com/AlexanderOlivieri/AlexanderOlivieri"><img alt="" src="https://github-readme-stats.vercel.app/api?username=AlexanderOlivieri&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
