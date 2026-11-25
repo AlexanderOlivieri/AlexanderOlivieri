@@ -45,14 +45,14 @@
  
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,figma" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,figma,vscode,Bootstrap" />
   </a>
 </p>
 
  ## Tecnologías Back-End:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,git,github,Idea-Light" />
   </a>
 </p>
 
