@@ -27,3 +27,15 @@
 
 
 <br />
+
+
+<h2 style="display: flex; align-items: center; margin-bottom: 1rem;"><img style="width: 40px; margin: 0;" src="./assets/Octocat/Octocat.png" alt="🌟" width='40' /> Sobre mi</h2>
+
+
+<img align='right' src="/assets/gif/Dog Man GIF by Pluralsight.gif" height="" width="300" alt="Hombre programando">
+
+- 🤔 &nbsp; Terminando mis estudios como Desarrollador Java Full Stack en Generation.org México.
+- 🎓 &nbsp; Explorando nuevas tecnologías, aprendiendo bases sólidas y protips para construir soluciones.
+- ✍️ &nbsp; Titulado y egresado de ICO en la UNAM.
+
+<hr>
