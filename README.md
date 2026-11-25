@@ -45,7 +45,7 @@
  
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,figma,vscode,Bootstrap" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,figma,vscode,bootstrap" />
   </a>
 </p>
 
